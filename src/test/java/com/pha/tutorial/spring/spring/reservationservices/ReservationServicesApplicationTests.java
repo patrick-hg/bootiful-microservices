@@ -1,4 +1,4 @@
-package com.pha.tutorial.spring.reservationservices;
+package com.pha.tutorial.spring.spring.reservationservices;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
